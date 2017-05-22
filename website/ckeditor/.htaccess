@@ -1,5 +1,0 @@
-Options -Indexes
-
-<Files ~ "^.*">
-  Allow from all
-</Files>
