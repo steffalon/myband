@@ -1,0 +1,132 @@
+.dashboard {
+    margin: 5em 10%;
+    color: white;
+}
+
+.dashboard .notify {
+    padding: 1em;
+    background-color: #292B2C;
+    border-radius: 10px 10px 0 0;
+}
+
+.dashboard .nextTo {
+    margin-top: 1.2em;
+    display: flex;
+}
+
+.dashboard .nextTo .profileChanges {
+    background-color: #292B2C;
+    padding: 1em;
+    width: 48%;
+}
+
+.dashboard .nextTo .profileChanges .info {
+    display: flex;
+}
+
+.dashboard .nextTo .profileChanges .info .infoPhoto img {
+    display: block;
+    margin-bottom: 2em;
+}
+
+.dashboard .nextTo .profileChanges .info .infoText {
+    padding: 1em;
+}
+
+
+.dashboard .nextTo .profileChanges .fields {
+    margin-top: 1em;
+}
+
+.dashboard .nextTo .profileChanges .fields input {
+    border: 0;
+    width: 100%;
+    margin-bottom: 1em;
+    font-size: 1.1em;
+    margin-top: 0.2em;
+}
+
+.dashboard .nextTo .profileChanges .fields .button {
+    color: black;
+    padding: 0.2em 0 0.2em 0;
+    background-color: white;
+    width: 100.1%;
+}
+
+.dashboard .nextTo .nieuws {
+    background-color: #484848;
+    width: 48%;
+    margin-left: 4%;
+    background-color: white;
+    color: black;
+}
+
+.dashboard .nextTo .nieuws .header {
+    padding: 1em;
+    border-bottom: 1px solid white;
+    background-color: #292B2C;
+    color: white;
+}
+
+.dashboard .nextTo .nieuws .section {
+     display: flex;
+    border: 1.1px solid #ECEEEF;
+ }
+
+.dashboard .nextTo .nieuws .section .note {
+    padding: 0.5em;
+}
+
+.dashboard .nextTo .nieuws img {
+    width: 180px;
+    height: 140px;
+    display: block;
+}
+
+.webInfo {
+    margin-top: 1.2em;
+    background-color: #292B2C;
+}
+
+.createArticle {
+    margin-top: 1.2em;
+    padding: 1em;
+    background-color: #292B2C;
+}
+
+.createArticle input {
+    border: 0;
+}
+
+.createArticle label {
+    font-size: large;
+}
+
+.createArticle .fields {
+    width: 99.8%;
+    font-size: large;
+}
+
+.createArticle .sendArticle {
+    color: black;
+    padding: 0.5em 0;
+    background-color: white;
+    width: 99.99%;
+}
+
+.sendPhoto {
+    width: 0.1px;
+    height: 0.1px;
+    opacity: 0;
+    overflow: hidden;
+    position: absolute;
+    z-index: -1;
+}
+
+.buttonLabel {
+    cursor: pointer;
+    border: 2px solid white;
+    display: inline-block;
+    width: 98.6%;
+    padding: 0.7em 0 0.9em 1%;
+}

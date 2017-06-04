@@ -1,0 +1,35 @@
+#content {
+    min-height: calc(100vh - 50px);
+}
+
+
+h3 {
+    color: #5789b2;
+}
+.article {
+    padding: 1em;
+    display: flex;
+}
+
+.text {
+    width: 75%;
+}
+
+.default {
+    width: 25%;
+    margin: 0 2%;
+}
+
+.default .photo img {
+    width: 100%;
+    display: block;
+}
+
+.sbutton {
+    margin-top: 5px;
+    display: flex;
+}
+
+.twitter-share-button {
+    margin-left: 2px;
+}

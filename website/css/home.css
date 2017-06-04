@@ -1,0 +1,47 @@
+.home .banner img {
+    width: 100%;
+    display: block;
+}
+
+.home .news .header {
+    background-color: #484848;
+    color: white;
+    padding: 1em 1.2em;
+    display: flex;
+}
+
+.row {
+    width: 100%;
+}
+
+
+.rowSearch input {
+    width: 100%;
+}
+
+.rowSearch input {
+    width: 200px;
+    border: 0;
+    font-size: 0.85em;
+}
+
+.home .news .newsContent .note {
+    width: 100%;
+    padding: 1em;
+    color: #5789b2;
+}
+
+.home .news .newsContent .note a {
+}
+
+.home .news .newsContent .section {
+    display: flex;
+    height: 200px;
+    border-bottom: solid 0.5pt #484848;
+}
+
+.home .news .newsContent .section img {
+    width: 300px;
+    height: 200px;
+    display: block;
+}

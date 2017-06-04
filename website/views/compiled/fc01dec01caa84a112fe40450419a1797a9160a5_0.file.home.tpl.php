@@ -1,0 +1,72 @@
+<?php
+/* Smarty version 3.1.30, created on 2017-06-04 11:05:39
+  from "/Users/Simon/Desktop/Projecten Media collage amsterdam/p1.4/proj/myband/website/views/home.tpl" */
+
+/* @var Smarty_Internal_Template $_smarty_tpl */
+if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
+  'version' => '3.1.30',
+  'unifunc' => 'content_5933cd639d98c5_58819687',
+  'has_nocache_code' => false,
+  'file_dependency' => 
+  array (
+    'fc01dec01caa84a112fe40450419a1797a9160a5' => 
+    array (
+      0 => '/Users/Simon/Desktop/Projecten Media collage amsterdam/p1.4/proj/myband/website/views/home.tpl',
+      1 => 1496566502,
+      2 => 'file',
+    ),
+  ),
+  'includes' => 
+  array (
+  ),
+),false)) {
+function content_5933cd639d98c5_58819687 (Smarty_Internal_Template $_smarty_tpl) {
+if (!is_callable('smarty_modifier_truncate')) require_once '/Users/Simon/Desktop/Projecten Media collage amsterdam/p1.4/proj/myband/website/libs/plugins/modifier.truncate.php';
+?>
+<div class="home">
+    <div class="banner">
+        <img src="img/banner.jpg" alt="Banner van CarTek website.">
+    </div>
+    <div class="news">
+        <div class="header">
+            <div class="row">
+                <h3>Nieuws</h3>
+            </div>
+            <div class="rowSearch">
+                <input class="zoek" type="text" placeholder="Zoek hier voor nieuwberichten">
+            </div>
+        </div>
+        <div class="newsContent">
+            <?php
+$_from = $_smarty_tpl->smarty->ext->_foreach->init($_smarty_tpl, $_smarty_tpl->tpl_vars['result_list']->value, 'article');
+if ($_from !== null) {
+foreach ($_from as $_smarty_tpl->tpl_vars['article']->value) {
+?>
+            <div class="section">
+                <div>
+                    <img class="photoNews" src="img/articlePhotos/<?php echo $_smarty_tpl->tpl_vars['article']->value['photo'];?>
+" alt="Een auto foto">
+                </div>
+                <div class="note">
+                    <h3><?php echo $_smarty_tpl->tpl_vars['article']->value['title'];?>
+</h3>
+                    <p><?php echo smarty_modifier_truncate(strip_tags($_smarty_tpl->tpl_vars['article']->value['description']),300);?>
+</p>
+                    <br>
+                    <p><a href="?page=article&id=<?php echo $_smarty_tpl->tpl_vars['article']->value['id'];?>
+">Lees meer</a></p>
+                    <br>
+                    <p><?php echo $_smarty_tpl->tpl_vars['article']->value['date'];?>
+</p>
+                </div>
+            </div>
+            <?php
+}
+}
+$_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl);
+?>
+
+        </div>
+    </div>
+</div><?php }
+}
