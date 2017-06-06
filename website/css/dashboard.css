@@ -54,7 +54,6 @@
 }
 
 .dashboard .nextTo .nieuws {
-    background-color: #484848;
     width: 48%;
     margin-left: 4%;
     background-color: white;
@@ -70,7 +69,7 @@
 
 .dashboard .nextTo .nieuws .section {
      display: flex;
-    border: 1.1px solid #ECEEEF;
+    border: 1px solid #ECEEEF;
  }
 
 .dashboard .nextTo .nieuws .section .note {

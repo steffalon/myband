@@ -44,6 +44,10 @@ if (!empty($_GET['page'])) {
             echo "<link rel=\"stylesheet\" href=\"css/dashboard.css\">";
             $templateParser->display('dashboard.tpl');
             break;
+        case 'calender':
+            echo "<link rel=\"stylesheet\" href=\"css/calender.css\">";
+            $templateParser->display('calender.tpl');
+            break;
         default:
             require_once ("core/news.php");
             echo "<link rel=\"stylesheet\" href=\"css/home.css\">";
