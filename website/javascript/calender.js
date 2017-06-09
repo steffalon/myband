@@ -75,6 +75,8 @@ function ajax(page) {
 
 ajax(pageNumber);
 
+document.getElementById("doAjax").addEventListener("click", nextPage);
+
 function nextPage() {
     pageNumber += 1;
     ajax(pageNumber);

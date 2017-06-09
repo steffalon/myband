@@ -49,9 +49,10 @@ if (!empty($_GET['page'])) {
             $templateParser->display('calender.tpl');
             break;
         default:
-            require_once ("core/news.php");
+            require ("core/news.php");
             echo "<link rel=\"stylesheet\" href=\"css/home.css\">";
             $templateParser->display('home.tpl');
+            require ("javascript/search.php");
             break;
     }
     echo "</div>";

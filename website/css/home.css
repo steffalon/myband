@@ -45,3 +45,16 @@
     height: 200px;
     display: block;
 }
+
+.button {
+    color: white;
+    background-color: #292B2C;
+    padding: 0.5em 0;
+    width: 100%;
+    text-align: center;
+    cursor: pointer;
+}
+
+.buttonBottom {
+    display: flex;
+}

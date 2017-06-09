@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 <div class="home">
     <div class="banner">
         <img src="img/banner.jpg" alt="Banner van CarTek website.">
@@ -8,7 +11,7 @@
                 <h3>Nieuws</h3>
             </div>
             <div class="rowSearch">
-                <input class="zoek" type="text" placeholder="Zoek hier voor nieuwberichten">
+                <input class="zoek" id="tags" type="search" placeholder="Zoek hier voor nieuwberichten">
             </div>
         </div>
         <div class="newsContent">
@@ -29,4 +32,14 @@
             {/foreach}
         </div>
     </div>
+    <form method="post">
+        <div class="buttonBottom">
+            <div class="button" onclick="location.href='?page=home&morePage={$nextPage}&backTo';">
+                <p>Vorige pagina</p>
+            </div>
+            <div class="button" style="border-left: white 0.05em solid" onclick="location.href='?page=home&morePage={$nextPage}';">
+                <p>Volgende pagina</p>
+            </div>
+        </div>
+    </form>
 </div>
