@@ -34,12 +34,16 @@
     </div>
     <form method="post">
         <div class="buttonBottom">
-            <div class="button" onclick="location.href='?page=home&morePage={$nextPage}&backTo';">
-                <p>Vorige pagina</p>
-            </div>
-            <div class="button" style="border-left: white 0.05em solid" onclick="location.href='?page=home&morePage={$nextPage}';">
-                <p>Volgende pagina</p>
-            </div>
+            {if $nextPage gt 3}
+                <div class="button" onclick="location.href='?page=home&morePage={$nextPage}&backTo';">
+                    <p>Vorige pagina</p>
+                </div>
+            {/if}
+            {if $result_list != null}
+                <div class="button" style="border-left: white 0.05em solid" onclick="location.href='?page=home&morePage={$nextPage}';">
+                    <p>Volgende pagina</p>
+                </div>
+            {/if}
         </div>
     </form>
 </div>
