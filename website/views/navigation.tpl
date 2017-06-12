@@ -7,6 +7,7 @@
       {else}
           <li class="setright"><a href="?page=login">Login</a></li>
       {/if}
+      <li class="setrightMini"><a href="?page=info"><i class="fa fa-info" aria-hidden="true"></i></a></li>
       <li class="setrightMini"><a href="?page=calender"><i class="fa fa-calendar-o" aria-hidden="true"></i></a></li>
   </ul>
 </nav>
