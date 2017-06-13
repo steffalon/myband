@@ -129,3 +129,25 @@
     width: 98.6%;
     padding: 0.7em 0 0.9em 1%;
 }
+
+@media screen and (max-width: 900px) {
+    .dashboard .nextTo {
+        display: block;
+    }
+    .dashboard .nextTo .profileChanges {
+        width: 92%;
+    }
+    .dashboard .nextTo .profileChanges .info {
+        display: block;
+    }
+    .dashboard .nextTo .profileChanges .info .infoPhoto img {
+        margin: 0 auto;
+    }
+    .dashboard .nextTo .nieuws {
+        width: 95%;
+        margin: 2em auto;
+    }
+    .dashboard .nextTo .nieuws img {
+        display: none;
+    }
+}

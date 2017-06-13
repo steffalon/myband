@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.30, created on 2017-06-11 11:23:17
+/* Smarty version 3.1.30, created on 2017-06-12 14:38:11
   from "/Users/Simon/Desktop/Projecten Media collage amsterdam/p1.4/proj/myband/website/views/home.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.30',
-  'unifunc' => 'content_593d0c05940f37_58097686',
+  'unifunc' => 'content_593e8b33f134e9_24375559',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'fc01dec01caa84a112fe40450419a1797a9160a5' => 
     array (
       0 => '/Users/Simon/Desktop/Projecten Media collage amsterdam/p1.4/proj/myband/website/views/home.tpl',
-      1 => 1497172997,
+      1 => 1497271091,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_593d0c05940f37_58097686 (Smarty_Internal_Template $_smarty_tpl) {
+function content_593e8b33f134e9_24375559 (Smarty_Internal_Template $_smarty_tpl) {
 if (!is_callable('smarty_modifier_truncate')) require_once '/Users/Simon/Desktop/Projecten Media collage amsterdam/p1.4/proj/myband/website/libs/plugins/modifier.truncate.php';
 ?>
 <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">

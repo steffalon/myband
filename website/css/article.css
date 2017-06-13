@@ -33,3 +33,16 @@ h3 {
 .twitter-share-button {
     margin-left: 2px;
 }
+
+@media screen and (max-width: 800px) {
+    .article {
+        display: block;
+    }
+    .text {
+        width: 100%;
+    }
+    .default {
+        margin-top: 2em;
+        width: 100%;
+    }
+}

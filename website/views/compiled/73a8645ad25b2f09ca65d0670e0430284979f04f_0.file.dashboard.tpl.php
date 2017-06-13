@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.30, created on 2017-06-04 11:05:43
+/* Smarty version 3.1.30, created on 2017-06-13 12:38:27
   from "/Users/Simon/Desktop/Projecten Media collage amsterdam/p1.4/proj/myband/website/views/dashboard.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.30',
-  'unifunc' => 'content_5933cd672abfe0_91290179',
+  'unifunc' => 'content_593fc0a36db775_76562819',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '73a8645ad25b2f09ca65d0670e0430284979f04f' => 
     array (
       0 => '/Users/Simon/Desktop/Projecten Media collage amsterdam/p1.4/proj/myband/website/views/dashboard.tpl',
-      1 => 1496566656,
+      1 => 1497350306,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5933cd672abfe0_91290179 (Smarty_Internal_Template $_smarty_tpl) {
+function content_593fc0a36db775_76562819 (Smarty_Internal_Template $_smarty_tpl) {
 if (!is_callable('smarty_modifier_truncate')) require_once '/Users/Simon/Desktop/Projecten Media collage amsterdam/p1.4/proj/myband/website/libs/plugins/modifier.truncate.php';
 ?>
 <div class="dashboard">
@@ -90,9 +90,6 @@ $_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl);
 ?>
 
         </div>
-    </div>
-    <div class="webInfo">
-        <p>Hier komt nog wat..</p>
     </div>
     <div class="createArticle">
         <form method="post" enctype="multipart/form-data" autocomplete="off">

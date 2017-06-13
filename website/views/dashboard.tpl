@@ -48,9 +48,6 @@
             {/foreach}
         </div>
     </div>
-    <div class="webInfo">
-        <p>Hier komt nog wat..</p>
-    </div>
     <div class="createArticle">
         <form method="post" enctype="multipart/form-data" autocomplete="off">
             <h3>Add article</h3>

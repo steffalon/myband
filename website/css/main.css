@@ -59,3 +59,13 @@ footer {
     padding: 1em 1.2em;
     text-align: center;
 }
+
+@media screen and (max-width: 800px) {
+    nav li {
+        width: 24.9%;
+        font-size: small;
+    }
+    .setrightMini {
+        border-left: 0;
+    }
+}
