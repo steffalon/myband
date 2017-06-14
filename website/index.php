@@ -40,6 +40,7 @@ if (!empty($_GET['page'])) {
             break;
         case 'dashboard':
             require_once ("core/dashboard.php");
+            require_once ("core/saveSettings.php");
             require_once ("core/sendArticle.php");
             require_once ("core/news.php");
             echo "<link rel=\"stylesheet\" href=\"css/dashboard.css\">";

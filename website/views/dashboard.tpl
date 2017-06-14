@@ -20,10 +20,10 @@
                     <input type="text" name="username" value="{$username}">
                     <br>
                     <label for="password">Wachtwoord veranderen</label>
-                    <input type="text" name="password">
+                    <input type="password" name="password">
                     <br>
                     <label for="password2">Wachtwoord opnieuw</label>
-                    <input type="text" name="password2">
+                    <input type="password" name="password2">
                     <input type="submit" class="button" name="save" value="Save">
                 </form>
             </div>
