@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.30, created on 2017-06-11 14:37:40
+/* Smarty version 3.1.30, created on 2017-06-19 09:20:07
   from "/Users/Simon/Desktop/Projecten Media collage amsterdam/p1.4/proj/myband/website/views/navigation.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.30',
-  'unifunc' => 'content_593d3994c23e62_42232106',
+  'unifunc' => 'content_59477b27e28417_04051052',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_593d3994c23e62_42232106 (Smarty_Internal_Template $_smarty_tpl) {
+function content_59477b27e28417_04051052 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <nav>
   <ul>
