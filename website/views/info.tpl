@@ -24,7 +24,7 @@
     <div class="modal-content">
         <span class="close">&times;</span>
         <p>E-mail: 22257@ma-web.nl</p>
-        <p>Gewijzigd op: 11 Junie 2017</p>
+        <p>Gewijzigd op: 11 Juni 2017</p>
     </div>
 
 </div>
