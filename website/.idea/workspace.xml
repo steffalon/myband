@@ -15,8 +15,18 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="38" column="52" lean-forward="true" selection-start-line="38" selection-start-column="52" selection-end-line="38" selection-end-column="52" />
+            <state relative-caret-position="300">
+              <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/footer.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -44,53 +54,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dashboard.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/dashboard.php">
+      <file leaf-file-name="login.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/login.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="46" />
-              <folding>
-                <marker date="1496403048000" expanded="true" signature="69:104" ph="SELECT * FRO... users" />
-                <marker date="1496403048000" expanded="true" signature="69:105" ph="SELECT * FRO... users" />
-                <marker date="1496403048000" expanded="true" signature="69:110" ph="SELECT * FRO... users" />
-                <marker date="1496403048000" expanded="true" signature="69:111" ph="SELECT * FRO... users" />
-              </folding>
+            <state relative-caret-position="180">
+              <caret line="12" column="6" lean-forward="false" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="makeLogin.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/makeLogin.php">
+      <file leaf-file-name="home.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/home.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="56" />
-              <folding>
-                <marker date="1496398949000" expanded="true" signature="851:924" ph="SELECT * FRO... users" />
-                <marker date="1496398949000" expanded="true" signature="1222:1304" ph="SELECT permi... users" />
-              </folding>
+            <state relative-caret-position="540">
+              <caret line="36" column="31" lean-forward="false" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="saveSettings.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/saveSettings.php">
+      <file leaf-file-name="calender.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/calender.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-              <folding>
-                <marker date="1497441862000" expanded="true" signature="48:73" ph="SELECT * FRO... users" />
-                <marker date="1497441862000" expanded="true" signature="48:74" ph="SELECT * FRO... users" />
-                <marker date="1497441862000" expanded="true" signature="48:75" ph="SELECT * FRO... users" />
-                <marker date="1497441862000" expanded="true" signature="48:81" ph="SELECT * FRO... users" />
-                <marker date="1497441862000" expanded="true" signature="48:82" ph="SELECT * FRO... users" />
-                <marker date="1497441862000" expanded="true" signature="48:90" ph="SELECT * FRO... users" />
-                <marker date="1497441862000" expanded="true" signature="337:365" ph="UPDATE users... " />
-                <marker date="1497441862000" expanded="true" signature="337:382" ph="UPDATE users... " />
-                <marker date="1497441862000" expanded="true" signature="337:394" ph="UPDATE users... " />
-                <marker date="1497441862000" expanded="true" signature="337:401" ph="UPDATE users... " />
-                <marker date="1497441862000" expanded="true" signature="787:844" ph="UPDATE users... " />
-                <marker date="1497441862000" expanded="true" signature="787:851" ph="UPDATE users... " />
-              </folding>
+            <state relative-caret-position="60">
+              <caret line="4" column="47" lean-forward="false" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -98,8 +87,18 @@
       <file leaf-file-name="dashboard.tpl" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/dashboard.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="41" lean-forward="false" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+            <state relative-caret-position="930">
+              <caret line="62" column="10" lean-forward="false" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="article.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/article.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="6" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -138,7 +137,6 @@
       <list>
         <option value="$PROJECT_DIR$/css/register.css" />
         <option value="$PROJECT_DIR$/views/register.tpl" />
-        <option value="$PROJECT_DIR$/views/login.tpl" />
         <option value="$PROJECT_DIR$/core/check_session.php" />
         <option value="$PROJECT_DIR$/core/makeLogin.php" />
         <option value="$PROJECT_DIR$/core/dashboard.php" />
@@ -147,7 +145,6 @@
         <option value="$PROJECT_DIR$/javascript/facebookSDK.js" />
         <option value="$PROJECT_DIR$/db.sql" />
         <option value="$PROJECT_DIR$/core/readNews.php" />
-        <option value="$PROJECT_DIR$/views/article.tpl" />
         <option value="$PROJECT_DIR$/javascript/agenda.js" />
         <option value="$PROJECT_DIR$/css/calender.css" />
         <option value="$PROJECT_DIR$/rss/rss.xml" />
@@ -155,14 +152,12 @@
         <option value="$PROJECT_DIR$/rss.xml" />
         <option value="$PROJECT_DIR$/rss.html" />
         <option value="$PROJECT_DIR$/css/rss.css" />
-        <option value="$PROJECT_DIR$/views/footer.tpl" />
         <option value="$PROJECT_DIR$/javascript/search.js" />
         <option value="$PROJECT_DIR$/core/calender.php" />
         <option value="$PROJECT_DIR$/javascript/search.php" />
         <option value="$PROJECT_DIR$/core/con.php" />
         <option value="$PROJECT_DIR$/javascript/nieuwsPagina.js" />
         <option value="$PROJECT_DIR$/core/news.php" />
-        <option value="$PROJECT_DIR$/views/calender.tpl" />
         <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/views/navigation.tpl" />
         <option value="$PROJECT_DIR$/javascript/modal.js" />
@@ -175,10 +170,14 @@
         <option value="$PROJECT_DIR$/css/article.css" />
         <option value="$PROJECT_DIR$/css/dashboard.css" />
         <option value="$PROJECT_DIR$/rss.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/core/saveSettings.php" />
-        <option value="$PROJECT_DIR$/views/dashboard.tpl" />
         <option value="$PROJECT_DIR$/views/info.tpl" />
+        <option value="$PROJECT_DIR$/views/footer.tpl" />
+        <option value="$PROJECT_DIR$/views/login.tpl" />
+        <option value="$PROJECT_DIR$/views/calender.tpl" />
+        <option value="$PROJECT_DIR$/views/dashboard.tpl" />
+        <option value="$PROJECT_DIR$/views/article.tpl" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -224,6 +223,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -233,6 +233,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="website" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="website" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="website" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -294,7 +308,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -425,17 +438,20 @@
       <workItem from="1497856316147" duration="20000" />
       <workItem from="1497856493261" duration="208000" />
       <workItem from="1497863340478" duration="274000" />
+      <workItem from="1498317238837" duration="82000" />
+      <workItem from="1498480435539" duration="1415000" />
+      <workItem from="1498555495225" duration="243000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114846000" />
+    <option name="totallyTimeSpent" value="116586000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16523606" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17167382" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.024618993" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -580,13 +596,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/login.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/core/sendArticle.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="381">
@@ -630,13 +639,6 @@
     <entry file="file://$PROJECT_DIR$/rss.html" />
     <entry file="file://$PROJECT_DIR$/rss.xml" />
     <entry file="file://$PROJECT_DIR$/javascript/rss.js" />
-    <entry file="file://$PROJECT_DIR$/views/footer.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/rss.css" />
     <entry file="file://$PROJECT_DIR$/javascript/search.js" />
     <entry file="file://$PROJECT_DIR$/javascript/nieuwsPagina.js" />
@@ -645,13 +647,6 @@
         <state relative-caret-position="195">
           <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/calender.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -664,13 +659,6 @@
             <marker date="1496922720000" expanded="true" signature="391:442" ph="SELECT * FRO... article" />
             <marker date="1496922720000" expanded="true" signature="391:447" ph="SELECT * FRO... article" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/article.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="6" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -699,13 +687,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="34" lean-forward="false" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/home.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="35" column="34" lean-forward="false" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -744,14 +725,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
           <caret line="46" column="5" lean-forward="false" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -824,10 +797,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/rss.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <marker date="1497429643000" expanded="true" signature="122:162" ph="SELECT * FRO... article" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/calender.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="47" lean-forward="false" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/views/dashboard.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="41" lean-forward="false" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+        <state relative-caret-position="930">
+          <caret line="62" column="10" lean-forward="false" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/footer.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
           <folding />
         </state>
       </provider>
@@ -840,20 +847,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rss.php">
+    <entry file="file://$PROJECT_DIR$/views/login.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding>
-            <marker date="1497429643000" expanded="true" signature="122:162" ph="SELECT * FRO... article" />
-          </folding>
+        <state relative-caret-position="180">
+          <caret line="12" column="6" lean-forward="false" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/home.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="31" lean-forward="false" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/article.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="6" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="52" lean-forward="true" selection-start-line="38" selection-start-column="52" selection-end-line="38" selection-end-column="52" />
+        <state relative-caret-position="300">
+          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
           <folding />
         </state>
       </provider>

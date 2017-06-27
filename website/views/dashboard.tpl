@@ -7,7 +7,7 @@
         <div class="profileChanges">
             <div class="info">
                 <div class="infoPhoto">
-                    <img src="img/Myself.jpg" width="150px" height="150px" alt="This is me">
+                    <img src="img/Myself.jpg" width="150" height="150" alt="This is me">
                 </div>
                 <div class="infoText">
                     <p>Naam: {$naam}</p>
@@ -17,13 +17,13 @@
             <div class="fields">
                 <form method="post">
                     <label for="username">Gebruikersnaam aanpassen</label>
-                    <input type="text" name="username" value="{$username}">
+                    <input type="text" id="username" name="username" value="{$username}">
                     <br>
                     <label for="password">Wachtwoord veranderen</label>
-                    <input type="password" name="password">
+                    <input type="password" id="password" name="password">
                     <br>
                     <label for="password2">Wachtwoord opnieuw</label>
-                    <input type="password" name="password2">
+                    <input type="password" id="password2" name="password2">
                     <input type="submit" class="button" name="save" value="Save">
                 </form>
             </div>
@@ -54,10 +54,10 @@
             <br>
             <label for="title">Titel</label>
             <br>
-            <input class="fields" type="text" name="title" placeholder="De naam van deze artiekel">
+            <input class="fields" id="title" type="text" name="title" placeholder="De naam van deze artiekel">
             <label class="buttonLabel" for="fileToUpload"><i class="fa fa-file-image-o" aria-hidden="true"> Foto</i></label>
-            <input class="sendPhoto" type="file" name="fileToUpload" size="25" id="fileToUpload" accept="image/*" aria-describedby="fileHelp">
-            <textarea name="msg" id="msg""></textarea>
+            <input class="sendPhoto" type="file" name="fileToUpload" size="25" id="fileToUpload" accept="image/*">
+            <textarea name="msg" id="msg"></textarea>
             <input class="sendArticle" name="send" type="submit" value="verzenden">
         </form>
     </div>
