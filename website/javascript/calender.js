@@ -3,7 +3,7 @@ list = document.getElementById('list');
 doAjax = document.getElementById('doAjax');
 
 function ajax(page) {
-    var debug = false;
+    var debug = true;
     if (window.XMLHttpRequest) {
         xmlhttp = new XMLHttpRequest();
     } else {
